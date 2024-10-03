@@ -1,4 +1,4 @@
-# coffee-bean-grinder-setting
+# COFFEE BEAN ANALYZER
 
 **Coffee Bean Analyzer**
 
