@@ -36,9 +36,7 @@ A web application that analyzes coffee bean images to recommend the optimal grin
 4. **Run the application on terminal**
     python app.py
 
-
 **Usage**
-
 1- Use the file input to upload an image of coffee beans.
 2- Click the "Upload Image" button to analyze the image.
 3- The recommended grinder setting will be displayed below the uploaded image.
