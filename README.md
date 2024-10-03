@@ -39,9 +39,9 @@ A web application that analyzes coffee bean images to recommend the optimal grin
 
 **Usage**
 
-Use the file input to upload an image of coffee beans.
-Click the "Upload Image" button to analyze the image.
-The recommended grinder setting will be displayed below the uploaded image.
+1- Use the file input to upload an image of coffee beans.
+2- Click the "Upload Image" button to analyze the image.
+3- The recommended grinder setting will be displayed below the uploaded image.
 
 
 
