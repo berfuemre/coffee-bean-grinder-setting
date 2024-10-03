@@ -1,3 +1,50 @@
-Flask==2.1.1
-opencv-python==4.5.5
-SQLAlchemy==1.4.32
+
+# This file lists the required Python packages for the Coffee Bean Grinder Setting application.
+# To install the dependencies listed in this file, you can use pip.
+
+Flask==2.1.1               # A lightweight WSGI web application framework.
+opencv-python==4.5.5       # Open Source Computer Vision Library (Python wrapper).
+SQLAlchemy==1.4.32         # SQL toolkit and Object-Relational Mapping (ORM) system for Python.
+
+# Installation Instructions:
+
+# 1. **Clone the Repository:**
+#    First, clone the repository to your local machine using the following command:
+#    ```bash
+#    git clone https://github.com/berfuemre/coffee-bean-grinder-setting.git
+#    ```
+#    Navigate into the project directory:
+#    ```bash
+#    cd coffee-bean-grinder-setting
+#    ```
+
+# 2. **Set Up a Virtual Environment (Optional but Recommended):**
+#    It’s recommended to use a virtual environment to keep your dependencies organized. You can create a virtual environment using `venv`:
+#    ```bash
+#    python3 -m venv venv
+#    ```
+
+# 3. **Activate the Virtual Environment:**
+#    - On macOS/Linux:
+#      ```bash
+#      source venv/bin/activate
+#      ```
+#    - On Windows:
+#      ```bash
+#      venv\Scripts\activate
+#      ```
+
+# 4. **Install the Required Dependencies:**
+#    Once the virtual environment is activated, install the dependencies using the following command:
+#    ```bash
+#    pip install -r requirements.txt
+#    ```
+
+# 5. **Run the Application:**
+#    After the dependencies are installed, you can run the application:
+#    ```bash
+#    python app.py
+#    ```
+
+# 6. **Access the Application:**
+#    Open your web browser and navigate to `http://127.0.0.1:5000` to access the Coffee Bean Grinder Setting application.
