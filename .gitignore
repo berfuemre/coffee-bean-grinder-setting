@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore the instance folder (Flask)
+instance/
+
+# Ignore static resources and logs if needed (optional)
+*.log
+static/
+
+# Ignore MacOS specific files
+.DS_Store
